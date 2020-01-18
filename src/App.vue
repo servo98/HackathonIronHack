@@ -1,6 +1,6 @@
-<template>
+<template >
 
-  <div id="app">
+  <div id="app" >
   <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
     <div id="nav">
     <nav class="navbar" role="navigation" aria-label="main navigation">
@@ -47,3 +47,6 @@ export default {
   }
 }
 </script>
+<style>
+
+</style>

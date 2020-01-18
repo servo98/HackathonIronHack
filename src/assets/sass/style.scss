@@ -1,2 +1,12 @@
 @charset "utf-8";
 @import "../../../node_modules/bulma/bulma.sass";
+
+$blue_chido :#3434FF;
+$green_uno:#40FAC1;
+$green_dos:#62FF62;
+$green_tres:#40FAC1;
+
+$primary: $blue_chido;
+$info: $green_uno;
+$warning: $green_dos;
+$danger: $green_tres

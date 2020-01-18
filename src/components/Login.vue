@@ -5,16 +5,16 @@
        <div class="field">
         <label class="label">Correo</label>
         <div class="control">
-            <input class="input" type="email" placeholder="correo@ejemplo.com">
+            <input id="email" class="input" type="email" placeholder="correo@ejemplo.com">
         </div>
         </div>
         <div class="field">
         <label class="label">Contraseña</label>
         <div class="control">
-            <input class="input" type="password" placeholder="*********">
+            <input id="password" class="input" type="password" placeholder="*********">
         </div>
         </div>
-        <div class="field is-grouped">
+        <div class="field">
         <div class="control">
             <button class="button is-link">Enviar</button>
         </div>
