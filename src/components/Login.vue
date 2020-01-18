@@ -16,7 +16,7 @@
         </div>
         <div class="field">
         <div class="control">
-            <button v-on:click="login" class="button is-link">Enviar</button>
+        <router-link class="button is-link" to="/home">Enviar</router-link>
         </div>
         </div>
     </form>
@@ -31,7 +31,7 @@ export default {
   mixins: [http],
   methods: {
       login(){
-        console.log('1111')
+
       }
   }
 }
