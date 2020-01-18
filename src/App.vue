@@ -4,9 +4,9 @@
 
   <div id="notificacione" class="notification is-warning" v-if="isHidden">
   <button class="delete" v-on:click="alerta"></button>
-  Primar lorem ipsum dolor sit amet, consectetur
-  adipiscing elit lorem ipsum dolor. <strong>Pellentesque risus mi</strong>, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis venenatis</a> efficitur. Sit amet,
-  consectetur adipiscing elit
+  <strong>Alert!</strong>, Lluvias intensas, el Río Tula se va a desbordar.
+  <br>
+  Tienes 2 h 30 min para evacuar.
 </div>
   <link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
     <div id="nav">
